@@ -7,6 +7,7 @@ Roberto Agustin Diaz castillo
 Pedro Pablo Kinil Chi
 William Santiago sierra guemez
 =end
+Variable=3.7
 content1 = file.read("imagen.jpg") #lee el archivo
 lines = content.split("\n") #divide el contenido en lineas
 
